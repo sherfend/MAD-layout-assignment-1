@@ -19,7 +19,7 @@ Create a Grid Layout of IoT (Internet of Things) devices in a particular house. 
 ```bash
 > flutter run 
 ```
-## About the Assignment
+## About the App
 The Application contains 6 devices that are put in a grid using `GridView` widget which are Gate and Front Door for lock key, Room and Kitchen for light, tv remote controller and air-conditioner temperature that can be updated from 16°C to 30°C.
 
 ## Preview
