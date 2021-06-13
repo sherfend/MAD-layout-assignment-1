@@ -4,7 +4,8 @@ Nur Shairah Binti Muhd Affendy
 (1713600)
 
 ## Assignment Question
-Part 1. (20 Marks)
+**Part 1**
+
 Create a Grid Layout of IoT (Internet of Things) devices in a particular house. Keep it simple to just 4-6 devices. Each device will have an icon on its own. When you press the icon, toggle the image and toggle the text underneath between on and off. 
 
 > **Attention**: this assignment is using Flutter 2.0.1
