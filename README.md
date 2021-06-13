@@ -1,4 +1,7 @@
-# Mobile Application Development Layout Assignment Part 1
+# CSC 4506 Mobile Application Development Layout Assignment Part 1
+
+Nur Shairah Binti Muhd Affendy
+(1713600)
 
 ## Assignment Question
 Part 1. (20 Marks)
